@@ -4,7 +4,7 @@
 Please use **git clone** command to duplicate this repository into your local PC first. 
 
 
-1. Revise the file2.txt file before creating a git branch.Then add a message in the file2.txt file as follows.
+## 1. Revise the file2.txt file before creating a git branch.Then add a message in the file2.txt file as follows.
 
 >
 > This is the master branch
@@ -15,7 +15,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 >
 
 
-2. Next, create a branch named "branch01", and switch the HEAD to the branch01. 
+## 2. Next, create a branch named "branch01", and switch the HEAD to the branch01. 
 
 >
 > two methods to use: **git checkout** command first, then switch. 
@@ -23,7 +23,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 > Or use **git checkout -b** command for a single step command. 
 >
 
-3. Under "branch01", revise the file2.txt file as follows. 
+## 3. Under "branch01", revise the file2.txt file as follows. 
 
 >
 > This is the branch01 branch. 
@@ -31,7 +31,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 > Hello branch01, once.
 >
 
-4. Next, switch to the master branch. Under "branch01", revise the file2.txt file as follows. 
+## 4. Next, switch to the master branch. Under "branch01", revise the file2.txt file as follows. 
 
 >
 > This is the master branch. 
@@ -39,13 +39,13 @@ Please use **git clone** command to duplicate this repository into your local PC
 > Hello master, once.
 >
 
-5. Now there are two parallel branches with different contents in file2.txt. 
+## 5. Now there are two parallel branches with different contents in file2.txt. 
 
 
-6. Next, create a branch named "branch02", and switch the HEAD to the branch02. 
+## 6. Next, create a branch named "branch02", and switch the HEAD to the branch02. 
 
 
-7. Under the branch, add the contents into file2.txt. 
+## 7. Under the branch, add the contents into file2.txt. 
 
 >
 > This is the branch02 branch. 
@@ -53,7 +53,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 > Hello branch02, once.
 >
 
-8. Switch to the master branch, add the contents into file2.txt. 
+## 8. Switch to the master branch, add the contents into file2.txt. 
 
 >
 > This is the master branch. 
