@@ -29,7 +29,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 > Hello branch01, once.
 >
 
-## 4. Next, switch to the master branch. Under "branch01", revise the file2.txt file as follows. Then use git commit to update the changes in your local repository.
+## 4. Next, switch to the master branch. Under "master", revise the file2.txt file as follows. Then use git commit to update the changes in your local repository.
 
 >
 > This is the master branch. 
@@ -38,6 +38,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 >
 
 ## 5. Now there are two parallel branches with different contents in file2.txt. 
+If you are not sure which branch you are with now, use **git branch** command to check and display. 
 
 
 ## 6. Next, create a branch named "branch02", and switch the HEAD to the branch02. 
@@ -60,6 +61,9 @@ Please use **git clone** command to duplicate this repository into your local PC
 >
 
 Then delete the message **There is no other branch.** from the file2.txt. Use git commit to update the changes in your local repository.
+
+
+## 9. Check which branch the HEAD points to at the moment.
 
 
 # The final tasks are: please merge the branch02 and branch 01 into the master branch. 
