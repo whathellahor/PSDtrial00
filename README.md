@@ -4,7 +4,7 @@
 Please use **git clone** command to duplicate this repository into your local PC first. 
 
 
-## 1. Revise the file2.txt file before creating a git branch.Then add a message in the file2.txt file as follows.
+## 1. Revise the file2.txt file before creating a git branch.Then add some messages in the file2.txt file as follows.
 
 >
 > This is the master branch
