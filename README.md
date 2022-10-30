@@ -18,9 +18,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 ## 2. Next, create a branch named "branch01", and switch the HEAD to the branch01. 
 
 >
-> two methods to use: **git checkout** command first, then switch. 
-> 
-> Or use **git checkout -b** command for a single step command. 
+> Use: **git checkout** command. 
 >
 
 ## 3. Under "branch01", revise the file2.txt file as follows. Then use git commit to update the changes in your local repository.
