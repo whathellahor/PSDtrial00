@@ -1,0 +1,15 @@
+This file is for testing the version control and branching. 
+
+Please git clone the repository into your local PC first. 
+
+
+Then follow the README.md instructions, to revise the contents of this txt file step by step. 
+
+
+Your added messages are as follows:
+
+
+
+
+
+
