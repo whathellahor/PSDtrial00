@@ -4,7 +4,7 @@
 Please use **git clone** command to duplicate this repository into your local PC first. 
 
 
-## 1. Revise the file2.txt file before creating a git branch.Then add some messages in the file2.txt file as follows.
+## 1. Revise the file2.txt file before creating a git branch.Then add some messages in the file2.txt file as follows. Then use git commit to update the changes in your local repository.
 
 >
 > This is the master branch
@@ -23,7 +23,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 > Or use **git checkout -b** command for a single step command. 
 >
 
-## 3. Under "branch01", revise the file2.txt file as follows. 
+## 3. Under "branch01", revise the file2.txt file as follows. Then use git commit to update the changes in your local repository.
 
 >
 > This is the branch01 branch. 
@@ -31,7 +31,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 > Hello branch01, once.
 >
 
-## 4. Next, switch to the master branch. Under "branch01", revise the file2.txt file as follows. 
+## 4. Next, switch to the master branch. Under "branch01", revise the file2.txt file as follows. Then use git commit to update the changes in your local repository.
 
 >
 > This is the master branch. 
@@ -45,7 +45,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 ## 6. Next, create a branch named "branch02", and switch the HEAD to the branch02. 
 
 
-## 7. Under the branch, add the contents into file2.txt. 
+## 7. Under the branch02, add the contents into file2.txt. Then use git commit to update the changes in your local repository.
 
 >
 > This is the branch02 branch. 
@@ -61,7 +61,7 @@ Please use **git clone** command to duplicate this repository into your local PC
 > Hello master, twice.
 >
 
-Then delete the message **There is no other branch.** from the file2.txt. 
+Then delete the message **There is no other branch.** from the file2.txt. Use git commit to update the changes in your local repository.
 
 
 # The final tasks are: please merge the branch02 and branch 01 into the master branch. 
