@@ -8,6 +8,8 @@ Then follow the README.md instructions, to revise the contents of this txt file 
 
 Your added messages are as follows:
 hello master, twice
+Yes zi hao is here
+
 
 
 
